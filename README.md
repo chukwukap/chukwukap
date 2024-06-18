@@ -1,4 +1,4 @@
-## Chukwuka Promise Uba - The Blockchain Wizard 🧙‍♂️ from UNN
+## Chukwuka Promise Uba - The Blockchain Wizard 🧙‍♂️
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chukwukauba)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chukwukap)
