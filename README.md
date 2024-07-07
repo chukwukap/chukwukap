@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chukwukauba)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chukwukap)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6347?style=flat-square&logo=Firefox&logoColor=white)](https://chukwukapuba.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6347?style=flat-square&logo=Firefox&logoColor=white)](https://chukwukauba.xyz)
 
 Greetings, fellow coders! 👋 I'm Chukwuka Promise Uba, a computer science student at the University of Nigeria, Nsukka (UNN), a freelance wizard 💼, and a blockchain enthusiast on a quest to conquer the realms of decentralized applications and smart contracts.
 
