@@ -1,3 +1,3 @@
 Chukwuka uba
 
-Blockchain, smart contract security, Defi, AI agents
+Products, Blockchain, smart contract, Defi, AI agents
